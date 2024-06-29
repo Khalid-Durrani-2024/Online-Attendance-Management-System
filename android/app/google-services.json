@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "84151893414",
+    "firebase_url": "https://sis-system-e2f83-default-rtdb.firebaseio.com",
+    "project_id": "sis-system-e2f83",
+    "storage_bucket": "sis-system-e2f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84151893414:android:b82435f808695dfc0a6367",
+        "android_client_info": {
+          "package_name": "com.example.sis_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84151893414-4smnqvp02iq6ugms63aeea771elc91nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADx-_UJSzyxkfekChkQKzduwUsTIxHJZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84151893414-4smnqvp02iq6ugms63aeea771elc91nd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "84151893414-3g03dkb0h4p8tl1g9n2fg8hs6p8fdh1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sisSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

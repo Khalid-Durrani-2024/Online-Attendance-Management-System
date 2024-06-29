@@ -1,0 +1,6 @@
+flutter_icons:
+  image_path: "lib/Assets/appIcon.png" # Path to your app's icon image
+  android: true # Generate Android icons
+  ios: true     # Generate iOS icons
+  image_path_android: "lib/Assets/appIcon.png"
+  image_path_ios: "lib/Assets/appIcon.png"
